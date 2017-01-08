@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="title_error_connection">No internet connection</string>
+    <string name="message_error_connection">Please, check your internet connection or try again later.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="sort_a_z">Sort By A-Z</string>
+    <string name="sort_z_a">Sort By Z-A</string>
+    <string name="username">USERNAME</string>
+    <string name="phone">PHONE</string>
+    <string name="address">ADDRESS</string>
+    <string name="company">COMPANY</string>
+</resources>
